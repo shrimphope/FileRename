@@ -157,4 +157,4 @@ A: 可能是因为文件已被其他程序修改或删除，或权限发生了�
 
 如有问题或建议，请通过以下方式联系：
 - 邮箱：15629167591@163.com
-- GitHub：[项目地址]
+- GitHub：https://github.com/shrimphope/FileRename
